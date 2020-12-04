@@ -1,0 +1,104 @@
+html{
+	height: 100%;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.body_p{
+    padding: 20px;
+}
+body {
+    background : url(https://media.gettyimages.com/videos/rain-animation-on-black-background-overlay-alpha-channel-video-id1076492536?s=640x640);
+    background-size: cover;
+
+}
+
+.jumbotron{
+    background : url(https://cdnb.artstation.com/p/assets/images/images/006/475/157/large/alex-jones-sam-s-youtube-banner.jpg?1498861597);
+    background-size: cover; 
+    border-radius: 0 !important;
+	  background-position: center;
+    background-repeat: no-repeat;
+  	background-size: cover;
+    color: white;  
+    min-height: 200px;
+
+}
+.card-bodyCS{
+    background : url(https://www.killping.com/blog/wp-content/uploads/2017/09/csgo-banner-1024x191.png);
+
+}
+.card-bodyD2{
+    background : url(https://www.itl.cat/pngfile/big/296-2964254_2560x1440-youtube-banner-wallpaper-with-regard-destiny-2.jpg);
+    background-position: 0% 45%;
+}
+.card-bodyCOD{
+    background : url(https://interfaceingame.com/wp-content/uploads/call-of-duty-mobile-39.jpg);
+    background-position: 15% 13%;
+
+}
+.card-bodyPUBG{
+    background : url(https://lite.pubg.com/wp-content/uploads/2019/10/image-5-1499x625.jpg);
+    background-position: 30% 13%;
+
+}
+
+
+.content{
+	text-align: center;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
+
+
+.filterDiv {
+  float: left;
+  background-color: #ffffff;
+  color: #000000;
+  width: 1000px;
+  line-height: 50px;
+  text-align: center;
+  margin: 50px;
+  display: none; /* Hidden by default */
+}
+
+.show {
+  display: block;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+.card-text {
+  color:white;
+  text-shadow: 2px 2px 5px black;
+}
+.lead{
+      text-shadow: 2px 2px 5px black;
+}
+.card-title{
+          text-shadow: 2px 2px 5px grey;
+}
+.display-3{
+      text-shadow: 2px 2px 5px black;
+
+}

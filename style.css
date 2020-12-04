@@ -1,0 +1,38 @@
+html{
+	height: 100%;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.body_p{
+    padding: 20px;
+}
+body {
+    background : url(http://www.allwhitebackground.com/images/6/Hexagon-Background-Image.png);
+    background-size: cover;
+
+}
+
+.jumbotron{
+    background : url(https://thumbor.forbes.com/thumbor/5351x2548/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc0706e5e338c000662305c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5351%26cropY1%3D780%26cropY2%3D3328);
+    background-size: cover; 
+    border-radius: 0 !important;
+	background-position: center;
+    background-repeat: no-repeat;
+  	background-size: cover;
+    color: white;  
+}
+
+
+
+.content{
+	text-align: center;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
